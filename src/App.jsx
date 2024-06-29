@@ -1,5 +1,5 @@
 import './App.css'
-import PageHeader from './layout/PageHeader'
+import {PageHeader} from './layout/PageHeader'
 
 function App() {
 
