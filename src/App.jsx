@@ -1,4 +1,4 @@
-import './App.css'
+import './index.css'
 import {PageHeader} from './layout/PageHeader'
 
 function App() {
