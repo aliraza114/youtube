@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      screens: {
+        'xsm': {'max':'420px'}
+      },
       colors: {
         secondary: {
           DEFAULT: colors.neutral[200],
